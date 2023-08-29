@@ -1,0 +1,113 @@
+.clock1 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 300px;
+  background-color: red;
+}
+
+.clock2 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 600px;
+  background-color: aqua;
+}
+.clock3 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 800px;
+  background-color: beige;
+}
+.clock4 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 1000px;
+  background-color: bisque;
+}
+.clock5 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 1200px;
+  background-color: white;
+}
+.clockTime1 {
+  margin-left: 55px;
+}
+.content1,
+.content2,
+.content3,
+.content4,
+.content5 {
+  margin-left: 60px;
+}
+
+.clock2 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+}
+.clockTime2 {
+  margin-left: 55px;
+}
+
+.clock2 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+}
+.clockTime2 {
+  margin-left: 55px;
+}
+
+.clock3 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+}
+.clockTime3 {
+  margin-left: 55px;
+}
+
+.clock4 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+}
+.clockTime4 {
+  margin-left: 55px;
+}
+
+.clock5 {
+  border: solid;
+  width: 300px;
+  height: 150px;
+}
+.clockTime5 {
+  margin-left: 55px;
+}
+.all {
+  position: absolute;
+  top: 600px;
+  left: 300px;
+}
+.timeBtn1 {
+  font-size: 40px;
+  cursor: pointer;
+}
+.timeBtn {
+  cursor: pointer;
+}
+
+.clockTime {
+  margin-left: 30px;
+  font-size: 20px;
+}
